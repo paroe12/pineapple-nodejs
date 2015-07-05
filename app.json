@@ -1,0 +1,7 @@
+{
+  "name": "Pineapple Node.js",
+  "description": "The Pineapple Node.js app using Express 4 in Heroku",
+  "repository": "https://github.com/valentin7/pineapple-nodejs.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
